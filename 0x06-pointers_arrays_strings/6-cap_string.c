@@ -6,7 +6,7 @@
  * @str: string
  * Return: pointer to string
  */
-char *cap_string(chat *str)
+char *cap_string(char *str)
 {
 	int i = 0;
 
